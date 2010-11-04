@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="ASCII"?>
+<pi:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:al="http://eclipse.org/graphiti/mm/algorithms" xmlns:pi="http://eclipse.org/graphiti/mm/pictograms" visible="true" gridUnit="10" diagramTypeId="JPA Diagram" name="AppRepoExample" snapToGrid="true" showGuides="true">
+  <graphicsAlgorithm xsi:type="al:Rectangle" background="//@colors.1" foreground="//@colors.0" width="1000" height="1000"/>
+  <children xsi:type="pi:ContainerShape" visible="true" active="true">
+    <properties key="independentObject" value="name.raev.kaloyan.examples.gae.app.repo.Application"/>
+    <properties key="primary collapsed" value="false"/>
+    <properties key="basic collapsed" value="false"/>
+    <properties key="relation collapsed" value="false"/>
+    <properties key="prop_entity_class_name" value="name.raev.kaloyan.examples.gae.app.repo.Application"/>
+    <properties key="diagram.checksum" value="-50-12799114-10996-5-121116104-9580-57-98-5179"/>
+    <graphicsAlgorithm xsi:type="al:RoundedRectangle" background="//@colors.3" foreground="//@colors.2" lineWidth="2" width="120" height="146" x="100" y="51" cornerHeight="6" cornerWidth="6">
+      <renderingStyle>
+        <adaptedGradientColoredAreas definedStyleId="blue-white-gloss" gradientType="0">
+          <adaptedGradientColoredAreas styleAdaption="0">
+            <gradientColor>
+              <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                <color red="248" green="251" blue="254"/>
+              </start>
+              <end locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="1">
+                <color red="248" green="251" blue="254"/>
+              </end>
+            </gradientColor>
+            <gradientColor>
+              <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="1">
+                <color red="237" green="245" blue="252"/>
+              </start>
+              <end locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="2">
+                <color red="237" green="245" blue="252"/>
+              </end>
+            </gradientColor>
+            <gradientColor>
+              <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="2">
+                <color red="222" green="237" blue="250"/>
+              </start>
+              <end locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="3">
+                <color red="222" green="237" blue="250"/>
+              </end>
+            </gradientColor>
+            <gradientColor>
+              <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="3">
+                <color red="212" green="231" blue="248"/>
+              </start>
+              <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="2">
+                <color red="250" green="251" blue="252"/>
+              </end>
+            </gradientColor>
+            <gradientColor>
+              <start locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="2">
+                <color red="226" green="229" blue="233"/>
+              </start>
+              <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                <color red="226" green="229" blue="233"/>
+              </end>
+            </gradientColor>
+          </adaptedGradientColoredAreas>
+          <adaptedGradientColoredAreas styleAdaption="1">
+            <gradientColor>
+              <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                <color red="238" green="246" blue="253"/>
+              </start>
+              <end locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="1">
+                <color red="238" green="246" blue="253"/>
+              </end>
+            </gradientColor>
+            <gradientColor>
+              <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="1">
+                <color red="208" green="230" blue="249"/>
+              </start>
+              <end locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="2">
+                <color red="208" green="230" blue="249"/>
+              </end>
+            </gradientColor>
+            <gradientColor>
+              <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="2">
+                <color red="172" green="210" blue="244"/>
+              </start>
+              <end locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="3">
+                <color red="172" green="210" blue="244"/>
+              </end>
+            </gradientColor>
+            <gradientColor>
+              <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="3">
+                <color red="129" green="185" blue="234"/>
+              </start>
+              <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="2">
+                <color red="170" green="208" blue="242"/>
+              </end>
+            </gradientColor>
+            <gradientColor>
+              <start locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="2">
+                <color red="154" green="191" blue="224"/>
+              </start>
+              <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                <color red="154" green="191" blue="224"/>
+              </end>
+            </gradientColor>
+          </adaptedGradientColoredAreas>
+          <adaptedGradientColoredAreas styleAdaption="2">
+            <gradientColor>
+              <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                <color red="245" green="249" blue="254"/>
+              </start>
+              <end locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="1">
+                <color red="245" green="249" blue="254"/>
+              </end>
+            </gradientColor>
+            <gradientColor>
+              <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="1">
+                <color red="226" green="239" blue="252"/>
+              </start>
+              <end locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="2">
+                <color red="226" green="239" blue="252"/>
+              </end>
+            </gradientColor>
+            <gradientColor>
+              <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="2">
+                <color red="203" green="227" blue="249"/>
+              </start>
+              <end locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="3">
+                <color red="203" green="227" blue="249"/>
+              </end>
+            </gradientColor>
+            <gradientColor>
+              <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="3">
+                <color red="187" green="218" blue="247"/>
+              </start>
+              <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="2">
+                <color red="197" green="224" blue="247"/>
+              </end>
+            </gradientColor>
+            <gradientColor>
+              <start locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="2">
+                <color red="178" green="205" blue="229"/>
+              </start>
+              <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                <color red="178" green="205" blue="229"/>
+              </end>
+            </gradientColor>
+          </adaptedGradientColoredAreas>
+          <adaptedGradientColoredAreas styleAdaption="3">
+            <gradientColor>
+              <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                <color red="153" green="204"/>
+              </start>
+              <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                <color red="51" green="153" blue="102"/>
+              </end>
+            </gradientColor>
+          </adaptedGradientColoredAreas>
+          <adaptedGradientColoredAreas styleAdaption="4">
+            <gradientColor>
+              <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                <color red="255" green="204"/>
+              </start>
+              <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                <color red="255" green="102"/>
+              </end>
+            </gradientColor>
+          </adaptedGradientColoredAreas>
+        </adaptedGradientColoredAreas>
+      </renderingStyle>
+    </graphicsAlgorithm>
+    <anchors xsi:type="pi:ChopboxAnchor" outgoingConnections="//@connections.0"/>
+    <children visible="true">
+      <graphicsAlgorithm xsi:type="al:Polyline" foreground="//@colors.2" lineWidth="2" filled="false">
+        <points y="30"/>
+        <points x="120" y="30"/>
+      </graphicsAlgorithm>
+    </children>
+    <children xsi:type="pi:ContainerShape" visible="true">
+      <properties key="prop_shape_type" value="ICON"/>
+      <graphicsAlgorithm xsi:type="al:Rectangle" filled="false" lineVisible="false" width="24" height="24">
+        <graphicsAlgorithmChildren xsi:type="al:Image" width="16" height="16" x="7" y="7" id="org.eclipse.jpt.ui.diagrameditor.entity" stretchH="false" stretchV="false" proportional="false"/>
+      </graphicsAlgorithm>
+    </children>
+    <children xsi:type="pi:ContainerShape" visible="true">
+      <properties key="prop_shape_type" value="HEADER"/>
+      <graphicsAlgorithm xsi:type="al:Rectangle" filled="false" lineVisible="false" width="95" height="21" x="25" y="2">
+        <graphicsAlgorithmChildren xsi:type="al:Text" foreground="//@colors.4" width="95" height="20" x="1" y="2" verticalAlignment="ALIGNMENT_TOP" value="Application">
+          <font name="Arial" size="8" bold="true"/>
+        </graphicsAlgorithmChildren>
+      </graphicsAlgorithm>
+    </children>
+    <children xsi:type="pi:ContainerShape" visible="true" active="true">
+      <properties key="prop_shape_type" value="COMPARTMENT"/>
+      <properties key="prop_attribs_num" value="1"/>
+      <graphicsAlgorithm xsi:type="al:Rectangle" filled="false" lineVisible="false" width="120" height="38" y="30">
+        <graphicsAlgorithmChildren xsi:type="al:Text" foreground="//@colors.4" width="120" height="13" y="2" horizontalAlignment="ALIGNMENT_CENTER" value="Primary Key">
+          <font name="Arial" size="7" italic="true"/>
+        </graphicsAlgorithmChildren>
+      </graphicsAlgorithm>
+      <children visible="true">
+        <graphicsAlgorithm xsi:type="al:Rectangle" background="//@colors.2" foreground="//@colors.3" lineVisible="false" width="120" height="2"/>
+      </children>
+      <children visible="true">
+        <graphicsAlgorithm xsi:type="al:Rectangle" background="//@colors.2" foreground="//@colors.3" lineVisible="false" width="120" height="2" y="13"/>
+      </children>
+      <children xsi:type="pi:ContainerShape" visible="true">
+        <properties key="prop_shape_type" value="ICON"/>
+        <graphicsAlgorithm xsi:type="al:Rectangle" filled="false" lineVisible="false" width="20" height="20" y="15">
+          <graphicsAlgorithmChildren xsi:type="al:Image" width="16" height="16" x="4" y="4" id="org.eclipse.jpt.ui.diagrameditor.pk" stretchH="false" stretchV="false" proportional="false"/>
+        </graphicsAlgorithm>
+      </children>
+      <children xsi:type="pi:ContainerShape" visible="true" active="true">
+        <properties key="prop_shape_type" value="ATTRIBUTE"/>
+        <properties key="independentObject" value="name.raev.kaloyan.examples.gae.app.repo.Application-id"/>
+        <graphicsAlgorithm xsi:type="al:Rectangle" filled="false" lineVisible="false" width="99" height="30" x="21" y="15">
+          <graphicsAlgorithmChildren xsi:type="al:Text" foreground="//@colors.4" width="99" height="30" x="1" y="-2" verticalAlignment="ALIGNMENT_TOP" value="id">
+            <font name="Arial" size="8" bold="true"/>
+          </graphicsAlgorithmChildren>
+        </graphicsAlgorithm>
+      </children>
+    </children>
+    <children xsi:type="pi:ContainerShape" visible="true" active="true">
+      <properties key="prop_shape_type" value="COMPARTMENT"/>
+      <properties key="prop_attribs_num" value="1"/>
+      <graphicsAlgorithm xsi:type="al:Rectangle" filled="false" lineVisible="false" width="120" height="38" y="68">
+        <graphicsAlgorithmChildren xsi:type="al:Text" foreground="//@colors.4" width="120" height="13" y="2" horizontalAlignment="ALIGNMENT_CENTER" value="Relation Attributes">
+          <font name="Arial" size="7" italic="true"/>
+        </graphicsAlgorithmChildren>
+      </graphicsAlgorithm>
+      <children visible="true">
+        <graphicsAlgorithm xsi:type="al:Rectangle" background="//@colors.2" foreground="//@colors.3" lineVisible="false" width="120" height="2"/>
+      </children>
+      <children visible="true">
+        <graphicsAlgorithm xsi:type="al:Rectangle" background="//@colors.2" foreground="//@colors.3" lineVisible="false" width="120" height="2" y="13"/>
+      </children>
+      <children xsi:type="pi:ContainerShape" visible="true">
+        <properties key="prop_shape_type" value="ICON"/>
+        <graphicsAlgorithm xsi:type="al:Rectangle" filled="false" lineVisible="false" width="20" height="20" y="15">
+          <graphicsAlgorithmChildren xsi:type="al:Image" width="16" height="16" x="4" y="4" id="org.eclipse.jpt.ui.diagrameditor.one_to_many_relation" stretchH="false" stretchV="false" proportional="false"/>
+        </graphicsAlgorithm>
+      </children>
+      <children xsi:type="pi:ContainerShape" visible="true" active="true">
+        <properties key="prop_shape_type" value="ATTRIBUTE"/>
+        <properties key="independentObject" value="name.raev.kaloyan.examples.gae.app.repo.Application-versions"/>
+        <graphicsAlgorithm xsi:type="al:Rectangle" filled="false" lineVisible="false" width="99" height="30" x="21" y="15">
+          <graphicsAlgorithmChildren xsi:type="al:Text" foreground="//@colors.4" width="99" height="30" x="1" y="-2" verticalAlignment="ALIGNMENT_TOP" value="versions">
+            <font name="Arial" size="8" bold="true"/>
+          </graphicsAlgorithmChildren>
+        </graphicsAlgorithm>
+      </children>
+    </children>
+    <children xsi:type="pi:ContainerShape" visible="true" active="true">
+      <properties key="prop_shape_type" value="COMPARTMENT"/>
+      <properties key="prop_attribs_num" value="1"/>
+      <graphicsAlgorithm xsi:type="al:Rectangle" filled="false" lineVisible="false" width="120" height="38" y="106">
+        <graphicsAlgorithmChildren xsi:type="al:Text" foreground="//@colors.4" width="120" height="13" y="2" horizontalAlignment="ALIGNMENT_CENTER" value="Other Attributes">
+          <font name="Arial" size="7" italic="true"/>
+        </graphicsAlgorithmChildren>
+      </graphicsAlgorithm>
+      <children visible="true">
+        <graphicsAlgorithm xsi:type="al:Rectangle" background="//@colors.2" foreground="//@colors.3" lineVisible="false" width="120" height="2"/>
+      </children>
+      <children visible="true">
+        <graphicsAlgorithm xsi:type="al:Rectangle" background="//@colors.2" foreground="//@colors.3" lineVisible="false" width="120" height="2" y="13"/>
+      </children>
+      <children xsi:type="pi:ContainerShape" visible="true">
+        <properties key="prop_shape_type" value="ICON"/>
+        <graphicsAlgorithm xsi:type="al:Rectangle" filled="false" lineVisible="false" width="20" height="20" y="15">
+          <graphicsAlgorithmChildren xsi:type="al:Image" width="16" height="16" x="4" y="4" id="org.eclipse.jpt.ui.diagrameditor.field" stretchH="false" stretchV="false" proportional="false"/>
+        </graphicsAlgorithm>
+      </children>
+      <children xsi:type="pi:ContainerShape" visible="true" active="true">
+        <properties key="prop_shape_type" value="ATTRIBUTE"/>
+        <properties key="independentObject" value="name.raev.kaloyan.examples.gae.app.repo.Application-name"/>
+        <graphicsAlgorithm xsi:type="al:Rectangle" filled="false" lineVisible="false" width="99" height="30" x="21" y="15">
+          <graphicsAlgorithmChildren xsi:type="al:Text" foreground="//@colors.4" width="99" height="30" x="1" y="-2" verticalAlignment="ALIGNMENT_TOP" value="name">
+            <font name="Arial" size="8" bold="true"/>
+          </graphicsAlgorithmChildren>
+        </graphicsAlgorithm>
+      </children>
+    </children>
+  </children>
+  <children xsi:type="pi:ContainerShape" visible="true" active="true">
+    <properties key="independentObject" value="name.raev.kaloyan.examples.gae.app.repo.Version"/>
+    <properties key="primary collapsed" value="false"/>
+    <properties key="basic collapsed" value="false"/>
+    <properties key="relation collapsed" value="false"/>
+    <properties key="prop_entity_class_name" value="name.raev.kaloyan.examples.gae.app.repo.Version"/>
+    <properties key="diagram.checksum" value="-19-518931-11677-7433-364564249190-6869"/>
+    <graphicsAlgorithm xsi:type="al:RoundedRectangle" background="//@colors.3" foreground="//@colors.2" lineWidth="2" width="120" height="108" x="348" y="70" cornerHeight="6" cornerWidth="6">
+      <renderingStyle>
+        <adaptedGradientColoredAreas definedStyleId="blue-white-gloss" gradientType="0">
+          <adaptedGradientColoredAreas styleAdaption="0">
+            <gradientColor>
+              <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                <color red="248" green="251" blue="254"/>
+              </start>
+              <end locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="1">
+                <color red="248" green="251" blue="254"/>
+              </end>
+            </gradientColor>
+            <gradientColor>
+              <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="1">
+                <color red="237" green="245" blue="252"/>
+              </start>
+              <end locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="2">
+                <color red="237" green="245" blue="252"/>
+              </end>
+            </gradientColor>
+            <gradientColor>
+              <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="2">
+                <color red="222" green="237" blue="250"/>
+              </start>
+              <end locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="3">
+                <color red="222" green="237" blue="250"/>
+              </end>
+            </gradientColor>
+            <gradientColor>
+              <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="3">
+                <color red="212" green="231" blue="248"/>
+              </start>
+              <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="2">
+                <color red="250" green="251" blue="252"/>
+              </end>
+            </gradientColor>
+            <gradientColor>
+              <start locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="2">
+                <color red="226" green="229" blue="233"/>
+              </start>
+              <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                <color red="226" green="229" blue="233"/>
+              </end>
+            </gradientColor>
+          </adaptedGradientColoredAreas>
+          <adaptedGradientColoredAreas styleAdaption="1">
+            <gradientColor>
+              <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                <color red="238" green="246" blue="253"/>
+              </start>
+              <end locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="1">
+                <color red="238" green="246" blue="253"/>
+              </end>
+            </gradientColor>
+            <gradientColor>
+              <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="1">
+                <color red="208" green="230" blue="249"/>
+              </start>
+              <end locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="2">
+                <color red="208" green="230" blue="249"/>
+              </end>
+            </gradientColor>
+            <gradientColor>
+              <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="2">
+                <color red="172" green="210" blue="244"/>
+              </start>
+              <end locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="3">
+                <color red="172" green="210" blue="244"/>
+              </end>
+            </gradientColor>
+            <gradientColor>
+              <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="3">
+                <color red="129" green="185" blue="234"/>
+              </start>
+              <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="2">
+                <color red="170" green="208" blue="242"/>
+              </end>
+            </gradientColor>
+            <gradientColor>
+              <start locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="2">
+                <color red="154" green="191" blue="224"/>
+              </start>
+              <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                <color red="154" green="191" blue="224"/>
+              </end>
+            </gradientColor>
+          </adaptedGradientColoredAreas>
+          <adaptedGradientColoredAreas styleAdaption="2">
+            <gradientColor>
+              <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                <color red="245" green="249" blue="254"/>
+              </start>
+              <end locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="1">
+                <color red="245" green="249" blue="254"/>
+              </end>
+            </gradientColor>
+            <gradientColor>
+              <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="1">
+                <color red="226" green="239" blue="252"/>
+              </start>
+              <end locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="2">
+                <color red="226" green="239" blue="252"/>
+              </end>
+            </gradientColor>
+            <gradientColor>
+              <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="2">
+                <color red="203" green="227" blue="249"/>
+              </start>
+              <end locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="3">
+                <color red="203" green="227" blue="249"/>
+              </end>
+            </gradientColor>
+            <gradientColor>
+              <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="3">
+                <color red="187" green="218" blue="247"/>
+              </start>
+              <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="2">
+                <color red="197" green="224" blue="247"/>
+              </end>
+            </gradientColor>
+            <gradientColor>
+              <start locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="2">
+                <color red="178" green="205" blue="229"/>
+              </start>
+              <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                <color red="178" green="205" blue="229"/>
+              </end>
+            </gradientColor>
+          </adaptedGradientColoredAreas>
+          <adaptedGradientColoredAreas styleAdaption="3">
+            <gradientColor>
+              <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                <color red="153" green="204"/>
+              </start>
+              <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                <color red="51" green="153" blue="102"/>
+              </end>
+            </gradientColor>
+          </adaptedGradientColoredAreas>
+          <adaptedGradientColoredAreas styleAdaption="4">
+            <gradientColor>
+              <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                <color red="255" green="204"/>
+              </start>
+              <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                <color red="255" green="102"/>
+              </end>
+            </gradientColor>
+          </adaptedGradientColoredAreas>
+        </adaptedGradientColoredAreas>
+      </renderingStyle>
+    </graphicsAlgorithm>
+    <anchors xsi:type="pi:ChopboxAnchor" incomingConnections="//@connections.0"/>
+    <children visible="true">
+      <graphicsAlgorithm xsi:type="al:Polyline" foreground="//@colors.2" lineWidth="2" filled="false">
+        <points y="30"/>
+        <points x="120" y="30"/>
+      </graphicsAlgorithm>
+    </children>
+    <children xsi:type="pi:ContainerShape" visible="true">
+      <properties key="prop_shape_type" value="ICON"/>
+      <graphicsAlgorithm xsi:type="al:Rectangle" filled="false" lineVisible="false" width="24" height="24">
+        <graphicsAlgorithmChildren xsi:type="al:Image" width="16" height="16" x="7" y="7" id="org.eclipse.jpt.ui.diagrameditor.entity" stretchH="false" stretchV="false" proportional="false"/>
+      </graphicsAlgorithm>
+    </children>
+    <children xsi:type="pi:ContainerShape" visible="true">
+      <properties key="prop_shape_type" value="HEADER"/>
+      <graphicsAlgorithm xsi:type="al:Rectangle" filled="false" lineVisible="false" width="95" height="21" x="25" y="2">
+        <graphicsAlgorithmChildren xsi:type="al:Text" foreground="//@colors.4" width="95" height="20" x="1" y="2" verticalAlignment="ALIGNMENT_TOP" value="Version">
+          <font name="Arial" size="8" bold="true"/>
+        </graphicsAlgorithmChildren>
+      </graphicsAlgorithm>
+    </children>
+    <children xsi:type="pi:ContainerShape" visible="true" active="true">
+      <properties key="prop_shape_type" value="COMPARTMENT"/>
+      <properties key="prop_attribs_num" value="1"/>
+      <graphicsAlgorithm xsi:type="al:Rectangle" filled="false" lineVisible="false" width="120" height="38" y="30">
+        <graphicsAlgorithmChildren xsi:type="al:Text" foreground="//@colors.4" width="120" height="13" y="2" horizontalAlignment="ALIGNMENT_CENTER" value="Primary Key">
+          <font name="Arial" size="7" italic="true"/>
+        </graphicsAlgorithmChildren>
+      </graphicsAlgorithm>
+      <children visible="true">
+        <graphicsAlgorithm xsi:type="al:Rectangle" background="//@colors.2" foreground="//@colors.3" lineVisible="false" width="120" height="2"/>
+      </children>
+      <children visible="true">
+        <graphicsAlgorithm xsi:type="al:Rectangle" background="//@colors.2" foreground="//@colors.3" lineVisible="false" width="120" height="2" y="13"/>
+      </children>
+      <children xsi:type="pi:ContainerShape" visible="true">
+        <properties key="prop_shape_type" value="ICON"/>
+        <graphicsAlgorithm xsi:type="al:Rectangle" filled="false" lineVisible="false" width="20" height="20" y="15">
+          <graphicsAlgorithmChildren xsi:type="al:Image" width="16" height="16" x="4" y="4" id="org.eclipse.jpt.ui.diagrameditor.pk" stretchH="false" stretchV="false" proportional="false"/>
+        </graphicsAlgorithm>
+      </children>
+      <children xsi:type="pi:ContainerShape" visible="true" active="true">
+        <properties key="prop_shape_type" value="ATTRIBUTE"/>
+        <properties key="independentObject" value="name.raev.kaloyan.examples.gae.app.repo.Version-id"/>
+        <graphicsAlgorithm xsi:type="al:Rectangle" filled="false" lineVisible="false" width="99" height="30" x="21" y="15">
+          <graphicsAlgorithmChildren xsi:type="al:Text" foreground="//@colors.4" width="99" height="30" x="1" y="-2" verticalAlignment="ALIGNMENT_TOP" value="id">
+            <font name="Arial" size="8" bold="true"/>
+          </graphicsAlgorithmChildren>
+        </graphicsAlgorithm>
+      </children>
+    </children>
+    <children xsi:type="pi:ContainerShape" active="true">
+      <properties key="prop_shape_type" value="COMPARTMENT"/>
+      <graphicsAlgorithm xsi:type="al:Rectangle" filled="false" lineVisible="false" width="120" y="68">
+        <graphicsAlgorithmChildren xsi:type="al:Text" foreground="//@colors.4" width="120" height="13" y="2" horizontalAlignment="ALIGNMENT_CENTER" value="Relation Attributes">
+          <font name="Arial" size="7" italic="true"/>
+        </graphicsAlgorithmChildren>
+      </graphicsAlgorithm>
+      <children visible="true">
+        <graphicsAlgorithm xsi:type="al:Rectangle" background="//@colors.2" foreground="//@colors.3" lineVisible="false" width="120" height="2"/>
+      </children>
+      <children visible="true">
+        <graphicsAlgorithm xsi:type="al:Rectangle" background="//@colors.2" foreground="//@colors.3" lineVisible="false" width="120" height="2" y="13"/>
+      </children>
+    </children>
+    <children xsi:type="pi:ContainerShape" visible="true" active="true">
+      <properties key="prop_shape_type" value="COMPARTMENT"/>
+      <properties key="prop_attribs_num" value="1"/>
+      <graphicsAlgorithm xsi:type="al:Rectangle" filled="false" lineVisible="false" width="120" height="38" y="68">
+        <graphicsAlgorithmChildren xsi:type="al:Text" foreground="//@colors.4" width="120" height="13" y="2" horizontalAlignment="ALIGNMENT_CENTER" value="Other Attributes">
+          <font name="Arial" size="7" italic="true"/>
+        </graphicsAlgorithmChildren>
+      </graphicsAlgorithm>
+      <children visible="true">
+        <graphicsAlgorithm xsi:type="al:Rectangle" background="//@colors.2" foreground="//@colors.3" lineVisible="false" width="120" height="2"/>
+      </children>
+      <children visible="true">
+        <graphicsAlgorithm xsi:type="al:Rectangle" background="//@colors.2" foreground="//@colors.3" lineVisible="false" width="120" height="2" y="13"/>
+      </children>
+      <children xsi:type="pi:ContainerShape" visible="true">
+        <properties key="prop_shape_type" value="ICON"/>
+        <graphicsAlgorithm xsi:type="al:Rectangle" filled="false" lineVisible="false" width="20" height="20" y="15">
+          <graphicsAlgorithmChildren xsi:type="al:Image" width="16" height="16" x="4" y="4" id="org.eclipse.jpt.ui.diagrameditor.field" stretchH="false" stretchV="false" proportional="false"/>
+        </graphicsAlgorithm>
+      </children>
+      <children xsi:type="pi:ContainerShape" visible="true" active="true">
+        <properties key="prop_shape_type" value="ATTRIBUTE"/>
+        <properties key="independentObject" value="name.raev.kaloyan.examples.gae.app.repo.Version-number"/>
+        <graphicsAlgorithm xsi:type="al:Rectangle" filled="false" lineVisible="false" width="99" height="30" x="21" y="15">
+          <graphicsAlgorithmChildren xsi:type="al:Text" foreground="//@colors.4" width="99" height="30" x="1" y="-2" verticalAlignment="ALIGNMENT_TOP" value="number">
+            <font name="Arial" size="8" bold="true"/>
+          </graphicsAlgorithmChildren>
+        </graphicsAlgorithm>
+      </children>
+    </children>
+  </children>
+  <connections xsi:type="pi:FreeFormConnection" visible="true" active="true" start="//@children.0/@anchors.0" end="//@children.1/@anchors.0">
+    <properties key="independentObject" value="name.raev.kaloyan.examples.gae.app.repo.Application-name.raev.kaloyan.examples.gae.app.repo.Version;1-N;->;versions"/>
+    <graphicsAlgorithm xsi:type="al:Polyline" foreground="//@colors.2" lineWidth="2" filled="false"/>
+    <connectionDecorators visible="true" locationRelative="true" location="0.9">
+      <graphicsAlgorithm xsi:type="al:Polyline" foreground="//@colors.2" lineWidth="2" filled="false" x="-12">
+        <points x="-2" y="7"/>
+        <points x="6"/>
+        <points x="-2" y="-7"/>
+        <points x="6"/>
+        <points x="20" y="3"/>
+        <points x="20" y="-3"/>
+        <points x="7"/>
+      </graphicsAlgorithm>
+    </connectionDecorators>
+    <connectionDecorators visible="true" active="true" locationRelative="true">
+      <graphicsAlgorithm xsi:type="al:Text" lineWidth="2" x="7" y="-16" value="0..1">
+        <font name="Arial" size="8"/>
+      </graphicsAlgorithm>
+    </connectionDecorators>
+    <connectionDecorators visible="true" active="true" locationRelative="true" location="1.0">
+      <graphicsAlgorithm xsi:type="al:Text" lineWidth="2" x="-24" y="-16" value="0..N">
+        <font name="Arial" size="8"/>
+      </graphicsAlgorithm>
+    </connectionDecorators>
+    <connectionDecorators visible="true" active="true" locationRelative="true">
+      <graphicsAlgorithm xsi:type="al:Text" lineWidth="2" x="17" y="2" value="versions">
+        <font name="Arial" size="8"/>
+      </graphicsAlgorithm>
+    </connectionDecorators>
+    <bendpoints x="220" y="124"/>
+    <bendpoints x="348" y="124"/>
+  </connections>
+  <colors red="227" green="238" blue="249"/>
+  <colors red="255" green="255" blue="255"/>
+  <colors red="98" green="131" blue="167"/>
+  <colors red="212" green="231" blue="248"/>
+  <colors blue="51"/>
+  <colors/>
+</pi:Diagram>
